@@ -1,5 +1,5 @@
 # discord-rules
-Rules &amp; Info section
+Rules &amp; Info Section
 
 <!DOCTYPE html>
 <html lang="en">
